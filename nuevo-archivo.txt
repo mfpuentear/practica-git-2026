@@ -1,6 +1,5 @@
 Un texto
 
-otra linea
 otro texto
 
 otra linea mas
