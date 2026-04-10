@@ -2,3 +2,6 @@ Un texto
 
 otra linea
 otro texto
+
+otra linea mas
+se me acaban las ideas de texto
